@@ -18,6 +18,7 @@ header{
     display:flex;
     gap: 1.3rem;
     justify-content: center;
+    padding-bottom: 1rem;
 }
 
 /* Socials */
@@ -47,7 +48,7 @@ header{
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 1rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 1rem 0rem 0rem 0rem;
@@ -55,7 +56,8 @@ header{
 
 .my__pic{
    
-    object-fit: cover
+    
+    margin-top: -3rem;
     
 }
 

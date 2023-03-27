@@ -26,6 +26,9 @@
     box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
 }
 
+.service{
+    height: 60vh;
+}
 .service__head h3{
     color: var(--color-bg);
     text-align: center;

@@ -1,4 +1,3 @@
-import React from 'react'
 import About from './components/about/about'
 import Contact from './components/contact/contact'
 import Experience from './components/experience/experience'

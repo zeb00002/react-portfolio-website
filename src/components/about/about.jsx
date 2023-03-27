@@ -1,9 +1,7 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpeg'
-import {TbMilitaryAward} from 'react-icons/tb'
-import {FiUsers} from 'react-icons/fi'
-import {GoFileDirectory} from 'react-icons/go'
+
 
 const About = () => {
   return (
@@ -17,25 +15,9 @@ const About = () => {
           </div>
         </div>
         <div className="about__content">
-          <div className="about__cards">
-            <article className="about__card">
-              <TbMilitaryAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>1+ years</small>
-            </article>
-            <article className="about__card">
-              <FiUsers className='about__icon'/>
-              <h5>Freshie</h5>
-              <small>Recently Graduated</small>
-            </article>
-            <article className="about__card">
-              <GoFileDirectory className='about__icon'/>
-              <h5>Projects</h5>
-              <small>10+ Completed Projects</small>
-            </article>
-          </div>
+          
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati rem soluta nemo at adipisci voluptate atque repellendus voluptatem ipsum, excepturi accusamus perferendis, in numquam quasi velit, amet labore! Ipsam, excepturi?
+          Front-end web developer skilled in bringing designs to life using HTML, CSS, JavaScript and other front-end technologies. Experience with various web development frameworks and libraries, and thrive in fast-paced environments
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

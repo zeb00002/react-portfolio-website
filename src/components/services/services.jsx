@@ -15,25 +15,16 @@ const Services = () => {
             <ul className="service__list">
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>User research: Experience conducting user research, analyzing user needs and behaviors, and creating personas.</p>
               </li>
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Information architecture: Ability to organize complex information into clear, concise structures that are easy for users to navigate.</p>
               </li>
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Wireframing and prototyping: Proficiency in UX design tools like Sketch, Figma, or Adobe XD to create wireframes and prototypes.</p>
               </li>
-              <li> 
-                <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li> 
-                <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              
             </ul>
           
         </article>
@@ -45,25 +36,16 @@ const Services = () => {
             <ul className="service__list">
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>JavaScript: Knowledge of JavaScript, including proficiency in writing and debugging JavaScript code and using libraries and frameworks like React, Vue.js, or Angular.</p>
               </li>
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Debugging and troubleshooting: Ability to identify and troubleshoot common web development issues, including browser compatibility issues, JavaScript errors, and CSS layout problems.</p>
               </li>
               <li> 
                 <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li> 
-                <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              <li> 
-                <FiCheckSquare className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-              </li>
-              
+                <p>Version control: Experience with version control systems like Git and knowledge of best practices for collaborative development using Git workflows.</p>
+              </li>            
             </ul>
           
         </article>

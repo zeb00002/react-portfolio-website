@@ -1,55 +1,33 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.png'
+
 
 const data = [
   {
     id : 1,
     image : IMG1,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
+    title : "To Do App",
+    github: "https://github.com/zeb00002/todo-app",
+    demo : "https://sztodo.surge.sh"
   },
   {
     id : 2,
     image : IMG2,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
+    title : "Chat GPT Static",
+    github: "https://github.com/zeb00002/gpt",
+    demo : "shttps://zgpt.surge.sh"
   },
   {
     id : 3,
     image : IMG3,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
+    title : "Movies Database App",
+    github: "https://github.com/zeb00002/movies_app",
+    demo : "https://szmovies.surge.sh"
   },
-  {
-    id : 4,
-    image : IMG4,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
-  },
-  {
-    id : 5,
-    image : IMG5,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
-  },
-  {
-    id : 6,
-    image : IMG6,
-    title : "ABC",
-    github: "https://github.com",
-    demo : "https://dribble.com/Alien_pixels"
-  },
+  
 ]
 
 const Portfolio = () => {
